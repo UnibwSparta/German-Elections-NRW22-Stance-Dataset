@@ -64,7 +64,7 @@ After sampling and annotating the tweets, we retained only those with at least o
 Every tweet in the dataset contains at least one target entity. The table below summarizes the number of unique target entity mentions based on the entity type. We distinguish between parties and their leading candidates.
 
 
-| **target\_entity** | **counts\_train** | **counts\_test\_1** | **counts\_test\_2** | **counts\_test\_3** | **counts\_test\_4** | **counts\_test\_5** | **counts\_test\_6** | **counts\_test\_7** | **counts\_test\_8** |
+| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | *Parties* |
 | AfD | 1261 | 123 | 138 | 102 | 115 | 157 | 149 | 197 | 192 |
@@ -87,7 +87,7 @@ Every tweet in the dataset contains at least one target entity. The table below 
 
 Every tweet has at least one annotated stance. The table below summarizes the number of stances based on the target entity.
 
-| **label** | **counts\_train** | **counts** | **counts\_test\_2** | **counts\_test\_3** | **counts\_test\_4** | **counts\_test\_5** | **counts\_test\_6** | **counts\_test\_7** | **counts\_test\_8** |
+| **label** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | against | 7379 | 984 | 1189 | 580 | 549 | 731 | 814 | 900 | 963 |
 | in favor | 2697 | 262 | 556 | 244 | 291 | 326 | 425 | 573 | 667 |
