@@ -2,35 +2,35 @@
 
 ## 👋 Welcome
 
-We present a multi-target stance detection dataset consisting of tweets collected during the 2022 German state election in North Rhine-Westphalia. It is devided into one training dataset and eight subsequent testing datasets that do not overlap in time. These datasets contain tweets, replies, and quoted retweets annotated for the task of stance detection.
+We present a multi-target stance detection dataset consisting of tweets collected during the 2022 German state election in North Rhine-Westphalia. It is divided into one training dataset and eight subsequent testing datasets that do not overlap in time. These datasets contain tweets, replies, and quoted retweets annotated for the task of target-dependend stance detection.
 
-**IMPORTANT** We provide only tweet IDs and our annotations. The original tweet texts and further tweet meta data are not part of this dataset.
+**IMPORTANT:** We provide only tweet IDs and our annotations. The original tweet texts and additional tweet metadata are not part of this dataset.
 
 ## 🏷 Annotation Procedure
 
-This dataset was labeled by three annotators on different subsets using a pre-agreed scheme and measured interrater reliability of approximately 0.75 Krippendorf alpha. We labeled every unique explicit entity mention per tweet into three classes:
+This dataset was labeled by three annotators on different subsets using a pre-agreed scheme, and interrater reliability was measured at approximately 0.75 Krippendorff's alpha. We labeled every unique explicit entity mention per tweet into three classes:
 
-* **against** - if the author clearly expresses his opinion against a mentioned politician or party,
-* **in favor** - if the author clearly expresses his opinion in support of a mentioned politician or party,
+* **against** - if the author clearly expresses their opinion against a mentioned politician or party,
+* **in favor** - if the author clearly expresses their opinion in support of a mentioned politician or party,
 * **neither** - else
 
-An entity mention can appear in the text as user handle, plain text, or hashtag. In total, **13 different target entities** are considered: six parties and their seven leading candidates (*Die Linke* had two leading candidates). To identify party mentions we used not only party-affiliated Twitter accounts but also names and accounts of party-related persons who were not a leading candidate, e.g. other party members. In such cases, the target entity is affiliated with the party name, however, we additionally provide a full name of the person as an additional assosiation. For instance, when *Christian Lindner* was mentioned, we annotated a stance for the corresponding party *FDP*, but his name is also provided in the dataset as additional attribute.
+An entity mention can appear in the text as a user handle, plain text, or hashtag. In total, **13 different target entities** are considered: six parties and their seven leading candidates (Die Linke had two leading candidates). To identify party mentions, we used not only party-affiliated Twitter accounts but also names and accounts of party-related persons who were not leading candidates, such as other party members. In such cases, the target entity is affiliated with the party name; however, we additionally provide the full name of the person as an additional association. For instance, when *Christian Lindner* was mentioned, we annotated a stance for the corresponding party *FDP*, but his name is also provided in the dataset as an additional attribute.
 
-We provide text spans for every extracted target entity mention. A text span can be affiliated to one or more entities. Especially names of party coalitions, such as *Ampelkoalition*, are affiliated to multiple target entities. But also hashtags containing multiple party names, such as *#NieWiederCDUCSU*.
+We provide text spans for every extracted target entity mention. A text span can be affiliated with one or more entities. Names of party coalitions, such as *Ampelkoalition*, are affiliated with multiple target entities, as are hashtags containing multiple party names, such as *#NieWiederCDUCSU*.
 
-While all extracted mentions of the same politician or party from tweets are provided in the dataset, we annotated only one stance per unique target entity in each tweet. Thus, mentioning *Die Linke* party at two different positions in the tweet did not lead to two stance annotations for *Die Linke* party.
+While all extracted mentions of the same politician or party from tweets are provided in the dataset, we annotated only one stance per unique target entity in each tweet. Thus, mentioning the *Die Linke* party in two different positions within the tweet did not lead to two stance annotations for the *Die Linke* party.
 
-In case of replies, we annotated only unambiguous entity mentions. A unambiguous mention is considered when:
+In the case of replies, we annotated only unambiguous entity mentions. An unambiguous mention is considered when:
 
 * An entity is mentioned within the text body of a reply:
 
   > *@recipient* bla bla bla **entity** bla bla bla
 
-* An entity is the recipient and there is only one recipient:
+* An entity is the recipient, and there is only one recipient:
 
   > ***@entity*** bla bla bla bla bla bla bla bla
 
-When an entity is mentioned as one of muliple reply recipients, then it is considered ambigious. In this case it is unclear to whom the reply is dericted to and which recipient is only added in the sense of carbon copy (CC in email). We exclude such entity mentions from the annotation process. However, we still provide the corresponding extracted spans for them in our dataset:
+When an entity is mentioned as one of multiple reply recipients, it is considered ambiguous. In this case, it is unclear to whom the reply is directed and which recipient is only added in the sense of carbon copy (CC in email). We exclude such entity mentions from the annotation process. However, we still provide the corresponding extracted spans for them in our dataset:
 
 * > *@recipient1* ***@entity*** *@recipient3* bla bla bla bla bla bla bla bla
 
@@ -39,12 +39,12 @@ When an entity is mentioned as one of muliple reply recipients, then it is consi
 
 ### Dataset Sizes and Sampling Methods
 
-The whole dataset is split in nine time intervals. The first longer time interval is used to sample tweets for the training dataset. Subsequent eight weekly intervals are used for testing datasets. In advance, we used Twitter API to collect tweets related to the 2022 German state election in the North Rhine-Westphalia. The total amount of collected tweets (excluding retweets) in the full period from 2022-01-31 to 2022-05-15 was *434,216*. Then we used a stance detection model from [Müller et al. 2022](https://link.springer.com/chapter/10.1007/978-3-031-15086-9_9) to pseudo-label those tweets. From pseudo-labeled tweets we sampled datasets for manual annotation using two methods:
+The entire dataset is split into nine time intervals. The first, longer time interval is used to sample tweets for the training dataset. The subsequent eight weekly intervals are used for the testing datasets. In advance, we used the Twitter API to collect tweets related to the 2022 German state election in North Rhine-Westphalia. The total number of collected tweets (excluding retweets) during the full period from 2022-01-31 to 2022-05-15 was *434,216*. We then used a stance detection model from [Müller et al. 2022](https://link.springer.com/chapter/10.1007/978-3-031-15086-9_9) to pseudo-label these tweets. From the pseudo-labeled tweets, we sampled datasets for manual annotation using two methods:
 
-* *random* - we took at most N random tweets for each entity and pseudo-labelled stance. For the training dataset we conducted multiple turns with different N.
-* *popular* - we took at most the top 50 of the most-retweeted tweets (with more then 1 retweet) for each entity and pseudo-labelled stance.
+* *random* - we took at most N random tweets for each entity and each pseudo-labelled stance. For the training dataset, we conducted multiple iterations with different values of N.
+* *popular* - we took at most the top 50 of the most-retweeted tweets (with more then one retweet) for each entity and each pseudo-labelled stance.
 
-After sampling and annotating of tweets, we kept only tweets with at least one unambigious entity mention. The table below summarizes the final tweet counts per dataset.
+After sampling and annotating the tweets, we retained only those with at least one unambiguous entity mention. The table below summarizes the final tweet counts per dataset.
 
 | **dataset** | **interval** | **from\_date** | **to\_date** | **num\_labeled\_tweets** | **sampling\_method** |
 | :--     | :-- | :--        | :--        | :--  | :--    |
@@ -61,35 +61,37 @@ After sampling and annotating of tweets, we kept only tweets with at least one u
 
 ### Target Entity Distribution
 
-Every tweet in the dataset contains at least one target entity. The table below summarizes the number of unique target entity mentions on the entity base. We distinguish between
+Every tweet in the dataset contains at least one target entity. The table below summarizes the number of unique target entity mentions based on the entity type. We distinguish between parties and their leading candidates.
 
-| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
+
+| **target\_entity** | **counts\_train** | **counts\_test\_1** | **counts\_test\_2** | **counts\_test\_3** | **counts\_test\_4** | **counts\_test\_5** | **counts\_test\_6** | **counts\_test\_7** | **counts\_test\_8** |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | *Parties* |
-| AfD | 1261 | 123 | 140 | 102 | 115 | 157 | 149 | 197 | 192 |
-| Bündnis 90/Die Grünen | 1456 | 193 | 212 | 136 | 135 | 176 | 239 | 218 | 295 |
-| CDU | 1819 | 159 | 241 | 156 | 164 | 231 | 252 | 300 | 245 |
+| AfD | 1261 | 123 | 138 | 102 | 115 | 157 | 149 | 197 | 192 |
+| Bündnis 90/Die Grünen | 1456 | 193 | 209 | 136 | 135 | 176 | 239 | 218 | 295 |
+| CDU | 1819 | 159 | 236 | 156 | 164 | 230 | 251 | 300 | 245 |
 | Die Linke | 740 | 49 | 81 | 34 | 49 | 93 | 54 | 115 | 160 |
-| FDP | 1922 | 222 | 304 | 83 | 124 | 181 | 209 | 232 | 244 |
-| SPD | 1805 | 205 | 291 | 124 | 143 | 214 | 255 | 278 | 285 |
+| FDP | 1922 | 222 | 290 | 83 | 124 | 181 | 209 | 232 | 244 |
+| SPD | 1805 | 205 | 285 | 124 | 143 | 214 | 255 | 278 | 285 |
 | *Leading Candidates* |
 | Carolin Butterwegge (Die Linke) | 21 | 1 | 1 | 1 | 0 | 2 | 3 | 2 | 10 |
-| Hendrik Wüst (CDU) | 1751 | 162 | 207 | 150 | 180 | 272 | 286 | 366 | 478 |
+| Hendrik Wüst (CDU) | 1751 | 162 | 204 | 150 | 180 | 272 | 286 | 366 | 478 |
 | Joachim Stamp (FDP) | 871 | 166 | 224 | 17 | 64 | 48 | 52 | 118 | 116 |
 | Jules El-Khatib (Die Linke) | 1036 | 7 | 19 | 1 | 33 | 1 | 7 | 14 | 17 |
 | Markus Wagner (AfD) | 50 | 2 | 6 | 6 | 2 | 5 | 3 | 22 | 25 |
 | Mona Neubaur (Bündnis 90/Die Grünen) | 420 | 128 | 147 | 31 | 10 | 52 | 45 | 83 | 66 |
 | Thomas Kutschaty (SPD) | 811 | 117 | 211 | 74 | 128 | 173 | 236 | 274 | 309 |
 
+
 ### Stances Distribution
 
-Every tweet have at least one annotated stance. The table below summarizes the numbers of stances on the entity base.
+Every tweet has at least one annotated stance. The table below summarizes the number of stances based on the target entity.
 
-| **stance** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
-| :--      | :--  | :-- | :--  | :-- | :-- | :-- | :-- | :-- | :-- |
-| against  | 7379 | 984 | 1208 | 580 | 549 | 732 | 814 | 900 | 963 |
-| in favor | 2697 | 262 | 562  | 244 | 291 | 326 | 426 | 573 | 667 |
-| neither  | 3887 | 288 | 314  | 91  | 307 | 547 | 550 | 746 | 812 |
+| **label** | **counts\_train** | **counts** | **counts\_test\_2** | **counts\_test\_3** | **counts\_test\_4** | **counts\_test\_5** | **counts\_test\_6** | **counts\_test\_7** | **counts\_test\_8** |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| against | 7379 | 984 | 1189 | 580 | 549 | 731 | 814 | 900 | 963 |
+| in favor | 2697 | 262 | 556 | 244 | 291 | 326 | 425 | 573 | 667 |
+| neither | 3887 | 288 | 306 | 91 | 307 | 547 | 550 | 746 | 812 |
 
 
 ### Tweet Type Distribution
@@ -107,16 +109,16 @@ The table below summarizes the tweet counts by type.
 
 Every dataset part is provided as a JSON file consisting of a list of JSON objects. The object fields are:
 
-* `tweet_id` *(str)* - Tweet ID as string. **NOTE**: Converting it to integers in a [Pandas's DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) can lead to an unexpected behavior where the last two digits are rounded to zeros, thus, corrupting the ID.
+* `tweet_id` *(str)* - Tweet ID as string. **NOTE**: Converting it to integers in a [Pandas's DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) can lead to unexpected behavior where the last two digits are rounded to zeros, potentially corrupting the ID.
 * `labels` *Dict[str, str]* - Mapping of target entity names to stance labels.
-* `annotated_pos_start` *int* - The begin of text part that we used for extracting unambigious entities as character offset (see expalations in the beginning). For tweets, quoted retweets, and replies with single recipient, it is always *0*. For replies with multiple recipients, it is the begin of text body.
-* `spans` *List[Dict[str, Any]]* - Unambigious entity mentions as text spans that were considered for annotation:
-    * `start` *int* - Start position of the text span an character offset.
-    * `end` *int* - End position of the text span an character offset.
+* `annotated_pos_start` *int* - The beginning of the text part used for extracting unambiguous entities as a character offset (see explanations at the beginning). For tweets, quoted retweets, and replies with a single recipient, this is always *0*. For replies with multiple recipients, it is the beginning of the text body.
+* `spans` *List[Dict[str, Any]]* - Unambiguous entity mentions as text spans that were considered for annotation:
+    * `start` *int* - Start position of the text span as a character offset.
+    * `end` *int* - End position of the text span an a character offset.
     * `affiliations` *List[Dict[str, str|null]* - Affiliated target entities for the span:
         * `name` *str* - Target entity name.
-        * `affiliation_type` *str* - Type of target entity *party* or *person* (leading candidate).
-        * `association` *str|null* - Full name of a party-affiliated person except leading candidates.
+        * `affiliation_type` *str* - Type of target entity: *party* or *person* (i.e. leading candidate).
+        * `association` *str|null* - Full name of a party-affiliated person, excluding leading candidates.
 * `spans_not_annotated` *List[Dict[str, Any]]* - Ambigious entity mentions.
 
 ```json
@@ -129,7 +131,7 @@ Every dataset part is provided as a JSON file consisting of a list of JSON objec
             "Die Linke": "against"
         },
 
-        // Starting position (character offset) from which text was considered for annotation
+        // Starting position (character offset) from which the text was considered for annotation
         "annotated_pos_start": 21,
 
         // Spans considered for stance annotation

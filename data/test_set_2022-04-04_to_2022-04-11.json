@@ -124,8 +124,8 @@
         },
         "spans": [
             {
-                "start": 270,
-                "end": 274,
+                "start": 273,
+                "end": 277,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -140,17 +140,17 @@
                 "end": 50,
                 "affiliations": [
                     {
+                        "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
+                        "affiliation_type": "party",
+                        "association": null
+                    },
+                    {
                         "name": "FDP",
                         "affiliation_type": "party",
                         "association": null
                     },
                     {
                         "name": "SPD",
-                        "affiliation_type": "party",
-                        "association": null
-                    },
-                    {
-                        "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
                         "affiliation_type": "party",
                         "association": null
                     }
@@ -225,8 +225,8 @@
         },
         "spans": [
             {
-                "start": 214,
-                "end": 229,
+                "start": 216,
+                "end": 231,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -237,8 +237,8 @@
                 "text": "#KeineStimmeAfD"
             },
             {
-                "start": 230,
-                "end": 255,
+                "start": 232,
+                "end": 257,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -672,8 +672,8 @@
         },
         "spans": [
             {
-                "start": 196,
-                "end": 200,
+                "start": 199,
+                "end": 203,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -684,8 +684,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 229,
-                "end": 239,
+                "start": 232,
+                "end": 242,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -696,8 +696,8 @@
                 "text": "#AfDw\u00e4hlen"
             },
             {
-                "start": 201,
-                "end": 208,
+                "start": 204,
+                "end": 211,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -708,8 +708,8 @@
                 "text": "#AfDNRW"
             },
             {
-                "start": 155,
-                "end": 168,
+                "start": 156,
+                "end": 169,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -720,8 +720,8 @@
                 "text": "@Alice_Weidel"
             },
             {
-                "start": 123,
-                "end": 136,
+                "start": 124,
+                "end": 137,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -732,8 +732,8 @@
                 "text": "@Vincentz_AfD"
             },
             {
-                "start": 185,
-                "end": 195,
+                "start": 186,
+                "end": 196,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -744,8 +744,8 @@
                 "text": "@GuidoReil"
             },
             {
-                "start": 170,
-                "end": 180,
+                "start": 171,
+                "end": 181,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -778,8 +778,8 @@
                 "text": "#noAfD"
             },
             {
-                "start": 226,
-                "end": 232,
+                "start": 229,
+                "end": 235,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -949,8 +949,8 @@
                 "text": "#noAfD"
             },
             {
-                "start": 123,
-                "end": 129,
+                "start": 124,
+                "end": 130,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -961,8 +961,8 @@
                 "text": "#noAfD"
             },
             {
-                "start": 200,
-                "end": 207,
+                "start": 201,
+                "end": 208,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -1024,8 +1024,8 @@
         },
         "spans": [
             {
-                "start": 125,
-                "end": 129,
+                "start": 126,
+                "end": 130,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -1165,8 +1165,8 @@
                 "text": "SPD"
             },
             {
-                "start": 208,
-                "end": 211,
+                "start": 210,
+                "end": 213,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -1177,8 +1177,8 @@
                 "text": "SPD"
             },
             {
-                "start": 227,
-                "end": 236,
+                "start": 229,
+                "end": 238,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -1337,8 +1337,8 @@
         },
         "spans": [
             {
-                "start": 159,
-                "end": 163,
+                "start": 160,
+                "end": 164,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -1361,8 +1361,8 @@
                 "text": "@Vincentz_AfD"
             },
             {
-                "start": 113,
-                "end": 116,
+                "start": 114,
+                "end": 117,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -1451,8 +1451,8 @@
         },
         "spans": [
             {
-                "start": 335,
-                "end": 339,
+                "start": 336,
+                "end": 340,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -1463,8 +1463,8 @@
                 "text": "@fdp"
             },
             {
-                "start": 328,
-                "end": 334,
+                "start": 329,
+                "end": 335,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -1475,8 +1475,8 @@
                 "text": "@fdpbt"
             },
             {
-                "start": 340,
-                "end": 348,
+                "start": 341,
+                "end": 349,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -1583,8 +1583,8 @@
                 "text": "@ThomasKutschaty"
             },
             {
-                "start": 254,
-                "end": 269,
+                "start": 255,
+                "end": 270,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -1674,8 +1674,8 @@
         },
         "spans": [
             {
-                "start": 151,
-                "end": 156,
+                "start": 152,
+                "end": 157,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -1823,8 +1823,8 @@
         },
         "spans": [
             {
-                "start": 157,
-                "end": 171,
+                "start": 160,
+                "end": 174,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -1855,18 +1855,6 @@
                     }
                 ],
                 "text": "#noAfD"
-            },
-            {
-                "start": 85,
-                "end": 88,
-                "affiliations": [
-                    {
-                        "name": "AfD",
-                        "affiliation_type": "party",
-                        "association": null
-                    }
-                ],
-                "text": "AfD"
             }
         ],
         "spans_not_annotated": [],
@@ -2125,8 +2113,8 @@
         },
         "spans": [
             {
-                "start": 197,
-                "end": 214,
+                "start": 200,
+                "end": 217,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -2137,8 +2125,8 @@
                 "text": "#FDPunter5Prozent"
             },
             {
-                "start": 156,
-                "end": 169,
+                "start": 157,
+                "end": 170,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -2149,8 +2137,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 137,
-                "end": 145,
+                "start": 138,
+                "end": 146,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -2171,8 +2159,8 @@
         },
         "spans": [
             {
-                "start": 221,
-                "end": 231,
+                "start": 223,
+                "end": 233,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -2239,8 +2227,8 @@
         },
         "spans": [
             {
-                "start": 89,
-                "end": 95,
+                "start": 93,
+                "end": 99,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2251,8 +2239,8 @@
                 "text": "#noAfD"
             },
             {
-                "start": 108,
-                "end": 117,
+                "start": 112,
+                "end": 121,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2263,8 +2251,8 @@
                 "text": "#StoppAfD"
             },
             {
-                "start": 96,
-                "end": 107,
+                "start": 100,
+                "end": 111,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2690,8 +2678,8 @@
         },
         "spans": [
             {
-                "start": 164,
-                "end": 175,
+                "start": 167,
+                "end": 178,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2736,8 +2724,8 @@
                 "text": "#noafd"
             },
             {
-                "start": 153,
-                "end": 178,
+                "start": 155,
+                "end": 180,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2748,8 +2736,8 @@
                 "text": "#AfDrausausdenParlamenten"
             },
             {
-                "start": 184,
-                "end": 191,
+                "start": 186,
+                "end": 193,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2760,8 +2748,8 @@
                 "text": "#fckafd"
             },
             {
-                "start": 211,
-                "end": 228,
+                "start": 214,
+                "end": 231,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2772,8 +2760,8 @@
                 "text": "#haltdieFresseAfd"
             },
             {
-                "start": 179,
-                "end": 183,
+                "start": 181,
+                "end": 185,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -2784,8 +2772,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 192,
-                "end": 210,
+                "start": 195,
+                "end": 213,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3170,8 +3158,8 @@
         },
         "spans": [
             {
-                "start": 128,
-                "end": 137,
+                "start": 129,
+                "end": 138,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -3217,8 +3205,8 @@
                 "text": "Linken"
             },
             {
-                "start": 106,
-                "end": 112,
+                "start": 107,
+                "end": 113,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -3403,8 +3391,8 @@
         },
         "spans": [
             {
-                "start": 188,
-                "end": 196,
+                "start": 190,
+                "end": 198,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -3427,8 +3415,8 @@
                 "text": "SPD"
             },
             {
-                "start": 127,
-                "end": 136,
+                "start": 128,
+                "end": 137,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -3519,8 +3507,8 @@
         },
         "spans": [
             {
-                "start": 241,
-                "end": 245,
+                "start": 243,
+                "end": 247,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3531,8 +3519,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 251,
-                "end": 258,
+                "start": 253,
+                "end": 260,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3555,8 +3543,8 @@
                 "text": "@Vincentz_AfD"
             },
             {
-                "start": 146,
-                "end": 153,
+                "start": 148,
+                "end": 155,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3567,8 +3555,8 @@
                 "text": "#Weidel"
             },
             {
-                "start": 201,
-                "end": 221,
+                "start": 203,
+                "end": 223,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3579,8 +3567,8 @@
                 "text": "Enxhi Seli-Zacharias"
             },
             {
-                "start": 159,
-                "end": 175,
+                "start": 161,
+                "end": 177,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3591,8 +3579,8 @@
                 "text": "Martin #Vincentz"
             },
             {
-                "start": 228,
-                "end": 239,
+                "start": 230,
+                "end": 241,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3613,8 +3601,8 @@
         },
         "spans": [
             {
-                "start": 237,
-                "end": 243,
+                "start": 239,
+                "end": 245,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -3661,7 +3649,7 @@
             },
             {
                 "start": 54,
-                "end": 59,
+                "end": 60,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -3669,7 +3657,7 @@
                         "association": null
                     }
                 ],
-                "text": "Union"
+                "text": "Unions"
             }
         ],
         "spans_not_annotated": [],
@@ -4076,8 +4064,8 @@
                 "text": "@fdp_nrw"
             },
             {
-                "start": 170,
-                "end": 185,
+                "start": 171,
+                "end": 186,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -4088,8 +4076,8 @@
                 "text": "@FDPFraktionNRW"
             },
             {
-                "start": 156,
-                "end": 169,
+                "start": 157,
+                "end": 170,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -4100,8 +4088,8 @@
                 "text": "@ante_terhaag"
             },
             {
-                "start": 190,
-                "end": 204,
+                "start": 191,
+                "end": 205,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -4180,8 +4168,8 @@
         },
         "spans": [
             {
-                "start": 227,
-                "end": 231,
+                "start": 228,
+                "end": 232,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -4224,8 +4212,8 @@
         },
         "spans": [
             {
-                "start": 56,
-                "end": 67,
+                "start": 57,
+                "end": 68,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -4271,8 +4259,8 @@
         },
         "spans": [
             {
-                "start": 188,
-                "end": 195,
+                "start": 189,
+                "end": 196,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -4341,8 +4329,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 156,
-                "end": 167,
+                "start": 157,
+                "end": 168,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -4353,8 +4341,8 @@
                 "text": "#Lauterbach"
             },
             {
-                "start": 168,
-                "end": 175,
+                "start": 169,
+                "end": 176,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -4477,8 +4465,8 @@
         },
         "spans": [
             {
-                "start": 113,
-                "end": 123,
+                "start": 115,
+                "end": 125,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -4568,8 +4556,8 @@
         },
         "spans": [
             {
-                "start": 78,
-                "end": 81,
+                "start": 81,
+                "end": 84,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -4603,8 +4591,8 @@
                 "text": "Ursula Heinen-Esser"
             },
             {
-                "start": 124,
-                "end": 135,
+                "start": 125,
+                "end": 136,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -5028,7 +5016,7 @@
             },
             {
                 "start": 171,
-                "end": 176,
+                "end": 185,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -5036,7 +5024,7 @@
                         "association": null
                     }
                 ],
-                "text": "union"
+                "text": "unionsfraktion"
             },
             {
                 "start": 130,
@@ -5129,8 +5117,8 @@
         },
         "spans": [
             {
-                "start": 176,
-                "end": 180,
+                "start": 177,
+                "end": 181,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -5391,8 +5379,8 @@
         },
         "spans": [
             {
-                "start": 140,
-                "end": 146,
+                "start": 141,
+                "end": 147,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -5403,8 +5391,8 @@
                 "text": "#noafd"
             },
             {
-                "start": 147,
-                "end": 151,
+                "start": 148,
+                "end": 152,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -5463,7 +5451,7 @@
             },
             {
                 "start": 114,
-                "end": 126,
+                "end": 127,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -5476,7 +5464,7 @@
                         "association": null
                     }
                 ],
-                "text": "schwarz-gelb"
+                "text": "schwarz-gelbe"
             }
         ],
         "spans_not_annotated": [],
@@ -5571,8 +5559,8 @@
         },
         "spans": [
             {
-                "start": 201,
-                "end": 208,
+                "start": 203,
+                "end": 210,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -5663,8 +5651,8 @@
         },
         "spans": [
             {
-                "start": 212,
-                "end": 225,
+                "start": 213,
+                "end": 226,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -5675,8 +5663,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 269,
-                "end": 280,
+                "start": 270,
+                "end": 281,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -5687,8 +5675,8 @@
                 "text": "@OlafScholz"
             },
             {
-                "start": 181,
-                "end": 196,
+                "start": 182,
+                "end": 197,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -5699,8 +5687,8 @@
                 "text": "@MarcoBuschmann"
             },
             {
-                "start": 239,
-                "end": 255,
+                "start": 240,
+                "end": 256,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -5721,8 +5709,8 @@
         },
         "spans": [
             {
-                "start": 190,
-                "end": 200,
+                "start": 191,
+                "end": 201,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -5823,8 +5811,8 @@
         },
         "spans": [
             {
-                "start": 55,
-                "end": 74,
+                "start": 56,
+                "end": 75,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -5846,8 +5834,8 @@
         },
         "spans": [
             {
-                "start": 136,
-                "end": 149,
+                "start": 138,
+                "end": 151,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -5882,8 +5870,8 @@
                 "text": "@CDU"
             },
             {
-                "start": 121,
-                "end": 131,
+                "start": 123,
+                "end": 133,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -5894,8 +5882,8 @@
                 "text": "@CDUNRW_de"
             },
             {
-                "start": 156,
-                "end": 160,
+                "start": 158,
+                "end": 162,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -6119,8 +6107,8 @@
         },
         "spans": [
             {
-                "start": 177,
-                "end": 201,
+                "start": 178,
+                "end": 202,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6131,8 +6119,8 @@
                 "text": "#AfDNRW-Wahlkampfauftakt"
             },
             {
-                "start": 275,
-                "end": 279,
+                "start": 276,
+                "end": 280,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6266,8 +6254,8 @@
         },
         "spans": [
             {
-                "start": 204,
-                "end": 208,
+                "start": 205,
+                "end": 209,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6278,8 +6266,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 417,
-                "end": 421,
+                "start": 418,
+                "end": 422,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6290,8 +6278,8 @@
                 "text": "@AfD"
             },
             {
-                "start": 385,
-                "end": 392,
+                "start": 386,
+                "end": 393,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6302,8 +6290,8 @@
                 "text": "#Weidel"
             },
             {
-                "start": 171,
-                "end": 181,
+                "start": 172,
+                "end": 182,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -6314,8 +6302,8 @@
                 "text": "Lauterbach"
             },
             {
-                "start": 158,
-                "end": 164,
+                "start": 159,
+                "end": 165,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -6604,8 +6592,8 @@
         },
         "spans": [
             {
-                "start": 142,
-                "end": 146,
+                "start": 145,
+                "end": 149,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -6716,8 +6704,8 @@
         },
         "spans": [
             {
-                "start": 226,
-                "end": 240,
+                "start": 228,
+                "end": 242,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -6728,8 +6716,8 @@
                 "text": "#VonHierAnGr\u00fcn"
             },
             {
-                "start": 248,
-                "end": 255,
+                "start": 250,
+                "end": 257,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -6740,8 +6728,8 @@
                 "text": "#gruene"
             },
             {
-                "start": 256,
-                "end": 269,
+                "start": 258,
+                "end": 271,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -6762,8 +6750,8 @@
         },
         "spans": [
             {
-                "start": 124,
-                "end": 131,
+                "start": 125,
+                "end": 132,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6774,8 +6762,8 @@
                 "text": "#AfDNRW"
             },
             {
-                "start": 294,
-                "end": 298,
+                "start": 295,
+                "end": 299,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -6886,8 +6874,8 @@
         },
         "spans": [
             {
-                "start": 123,
-                "end": 137,
+                "start": 125,
+                "end": 139,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -7132,8 +7120,8 @@
         },
         "spans": [
             {
-                "start": 265,
-                "end": 278,
+                "start": 266,
+                "end": 279,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -7144,8 +7132,8 @@
                 "text": "#Scharrenbach"
             },
             {
-                "start": 252,
-                "end": 264,
+                "start": 253,
+                "end": 265,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -7382,8 +7370,8 @@
         },
         "spans": [
             {
-                "start": 51,
-                "end": 61,
+                "start": 52,
+                "end": 62,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7394,8 +7382,8 @@
                 "text": "#wagnerafd"
             },
             {
-                "start": 83,
-                "end": 90,
+                "start": 84,
+                "end": 91,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7406,8 +7394,8 @@
                 "text": "#afdnrw"
             },
             {
-                "start": 91,
-                "end": 95,
+                "start": 92,
+                "end": 96,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7418,8 +7406,8 @@
                 "text": "#afd"
             },
             {
-                "start": 96,
-                "end": 108,
+                "start": 97,
+                "end": 109,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7442,8 +7430,8 @@
                 "text": "AfD"
             },
             {
-                "start": 62,
-                "end": 82,
+                "start": 63,
+                "end": 83,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7465,8 +7453,8 @@
         },
         "spans": [
             {
-                "start": 149,
-                "end": 161,
+                "start": 150,
+                "end": 162,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -7574,8 +7562,8 @@
         },
         "spans": [
             {
-                "start": 184,
-                "end": 188,
+                "start": 185,
+                "end": 189,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7586,8 +7574,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 112,
-                "end": 125,
+                "start": 113,
+                "end": 126,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -7686,8 +7674,8 @@
         },
         "spans": [
             {
-                "start": 237,
-                "end": 251,
+                "start": 238,
+                "end": 252,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -7709,7 +7697,7 @@
         "spans": [
             {
                 "start": 58,
-                "end": 66,
+                "end": 67,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -7717,7 +7705,7 @@
                         "association": null
                     }
                 ],
-                "text": "Rot-Gr\u00fcn"
+                "text": "Rot-Gr\u00fcne"
             },
             {
                 "start": 62,
@@ -7889,8 +7877,8 @@
         },
         "spans": [
             {
-                "start": 211,
-                "end": 215,
+                "start": 212,
+                "end": 216,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -7911,8 +7899,8 @@
         },
         "spans": [
             {
-                "start": 236,
-                "end": 240,
+                "start": 237,
+                "end": 241,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -7923,8 +7911,8 @@
                 "text": "#CDU"
             },
             {
-                "start": 249,
-                "end": 259,
+                "start": 250,
+                "end": 260,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -7947,8 +7935,8 @@
         },
         "spans": [
             {
-                "start": 202,
-                "end": 215,
+                "start": 204,
+                "end": 217,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -7959,8 +7947,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 192,
-                "end": 196,
+                "start": 194,
+                "end": 198,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -7971,8 +7959,8 @@
                 "text": "@CDU"
             },
             {
-                "start": 247,
-                "end": 259,
+                "start": 249,
+                "end": 261,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -7983,8 +7971,8 @@
                 "text": "@Die_Gruenen"
             },
             {
-                "start": 260,
-                "end": 272,
+                "start": 262,
+                "end": 274,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -8049,8 +8037,8 @@
         },
         "spans": [
             {
-                "start": 41,
-                "end": 54,
+                "start": 44,
+                "end": 57,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8061,8 +8049,8 @@
                 "text": "@Alice_Weidel"
             },
             {
-                "start": 10,
-                "end": 14,
+                "start": 11,
+                "end": 15,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8073,8 +8061,8 @@
                 "text": "@AfD"
             },
             {
-                "start": 72,
-                "end": 76,
+                "start": 77,
+                "end": 90,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8082,11 +8070,11 @@
                         "association": null
                     }
                 ],
-                "text": "@AfD"
+                "text": "@AfDLindemann"
             },
             {
-                "start": 214,
-                "end": 218,
+                "start": 228,
+                "end": 241,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8094,11 +8082,11 @@
                         "association": null
                     }
                 ],
-                "text": "@AfD"
+                "text": "@AfD_Chemnitz"
             },
             {
-                "start": 240,
-                "end": 255,
+                "start": 256,
+                "end": 271,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8109,8 +8097,8 @@
                 "text": "@AfDimBundestag"
             },
             {
-                "start": 183,
-                "end": 190,
+                "start": 194,
+                "end": 201,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8121,8 +8109,8 @@
                 "text": "@AfD_MV"
             },
             {
-                "start": 191,
-                "end": 202,
+                "start": 203,
+                "end": 214,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8133,8 +8121,8 @@
                 "text": "@AfDKreisMK"
             },
             {
-                "start": 169,
-                "end": 182,
+                "start": 179,
+                "end": 192,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8145,8 +8133,8 @@
                 "text": "@AfD_Muenster"
             },
             {
-                "start": 15,
-                "end": 26,
+                "start": 16,
+                "end": 27,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8157,8 +8145,8 @@
                 "text": "@StBrandner"
             },
             {
-                "start": 27,
-                "end": 40,
+                "start": 29,
+                "end": 42,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8169,8 +8157,8 @@
                 "text": "@Th_Seitz_AfD"
             },
             {
-                "start": 55,
-                "end": 71,
+                "start": 59,
+                "end": 75,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8181,8 +8169,8 @@
                 "text": "@Beatrix_vStorch"
             },
             {
-                "start": 203,
-                "end": 213,
+                "start": 216,
+                "end": 226,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8193,8 +8181,8 @@
                 "text": "@GuidoReil"
             },
             {
-                "start": 236,
-                "end": 239,
+                "start": 243,
+                "end": 254,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8202,7 +8190,7 @@
                         "association": null
                     }
                 ],
-                "text": "afd"
+                "text": "@martel_afd"
             }
         ],
         "spans_not_annotated": [],
@@ -8215,8 +8203,8 @@
         },
         "spans": [
             {
-                "start": 102,
-                "end": 107,
+                "start": 103,
+                "end": 108,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8317,8 +8305,8 @@
         },
         "spans": [
             {
-                "start": 280,
-                "end": 290,
+                "start": 281,
+                "end": 291,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -8329,8 +8317,8 @@
                 "text": "@ABaerbock"
             },
             {
-                "start": 263,
-                "end": 279,
+                "start": 264,
+                "end": 280,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -8341,8 +8329,8 @@
                 "text": "@Karl_Lauterbach"
             },
             {
-                "start": 306,
-                "end": 318,
+                "start": 307,
+                "end": 319,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -8353,8 +8341,8 @@
                 "text": "@beerenstark"
             },
             {
-                "start": 255,
-                "end": 262,
+                "start": 256,
+                "end": 263,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -8447,8 +8435,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 231,
-                "end": 237,
+                "start": 232,
+                "end": 238,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8459,8 +8447,8 @@
                 "text": "#NoAfD"
             },
             {
-                "start": 238,
-                "end": 254,
+                "start": 239,
+                "end": 255,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8564,8 +8552,8 @@
         },
         "spans": [
             {
-                "start": 118,
-                "end": 130,
+                "start": 119,
+                "end": 131,
                 "affiliations": [
                     {
                         "name": "Mona Neubaur",
@@ -8576,8 +8564,8 @@
                 "text": "@MonaNeubaur"
             },
             {
-                "start": 88,
-                "end": 94,
+                "start": 89,
+                "end": 95,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -8588,8 +8576,8 @@
                 "text": "Gr\u00fcnen"
             },
             {
-                "start": 21,
-                "end": 26,
+                "start": 22,
+                "end": 27,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -8600,8 +8588,8 @@
                 "text": "gr\u00fcne"
             },
             {
-                "start": 147,
-                "end": 158,
+                "start": 149,
+                "end": 160,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -8735,8 +8723,8 @@
         },
         "spans": [
             {
-                "start": 207,
-                "end": 216,
+                "start": 209,
+                "end": 218,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -8757,8 +8745,8 @@
         },
         "spans": [
             {
-                "start": 217,
-                "end": 221,
+                "start": 218,
+                "end": 222,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8769,8 +8757,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 239,
-                "end": 248,
+                "start": 243,
+                "end": 252,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8781,8 +8769,8 @@
                 "text": "#AfDwirkt"
             },
             {
-                "start": 249,
-                "end": 260,
+                "start": 253,
+                "end": 264,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -8957,8 +8945,8 @@
         },
         "spans": [
             {
-                "start": 40,
-                "end": 45,
+                "start": 41,
+                "end": 46,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -8969,8 +8957,8 @@
                 "text": "Union"
             },
             {
-                "start": 214,
-                "end": 218,
+                "start": 216,
+                "end": 220,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -8991,8 +8979,8 @@
         },
         "spans": [
             {
-                "start": 140,
-                "end": 155,
+                "start": 142,
+                "end": 157,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -9128,8 +9116,8 @@
         },
         "spans": [
             {
-                "start": 59,
-                "end": 72,
+                "start": 60,
+                "end": 73,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -9140,8 +9128,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 85,
-                "end": 93,
+                "start": 86,
+                "end": 94,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -9287,8 +9275,8 @@
         },
         "spans": [
             {
-                "start": 40,
-                "end": 54,
+                "start": 42,
+                "end": 56,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -9390,8 +9378,8 @@
         },
         "spans": [
             {
-                "start": 243,
-                "end": 247,
+                "start": 245,
+                "end": 249,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -9414,8 +9402,8 @@
                 "text": "@HeinenUlla"
             },
             {
-                "start": 248,
-                "end": 260,
+                "start": 250,
+                "end": 262,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -9632,8 +9620,8 @@
         },
         "spans": [
             {
-                "start": 198,
-                "end": 210,
+                "start": 200,
+                "end": 212,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -9668,8 +9656,8 @@
                 "text": "Dreyer"
             },
             {
-                "start": 144,
-                "end": 153,
+                "start": 146,
+                "end": 155,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -9692,8 +9680,8 @@
                 "text": "Scholz"
             },
             {
-                "start": 178,
-                "end": 182,
+                "start": 180,
+                "end": 184,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -9714,8 +9702,8 @@
         },
         "spans": [
             {
-                "start": 76,
-                "end": 84,
+                "start": 78,
+                "end": 86,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -9726,8 +9714,8 @@
                 "text": "@fdp_nrw"
             },
             {
-                "start": 149,
-                "end": 157,
+                "start": 152,
+                "end": 160,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -9738,8 +9726,8 @@
                 "text": "@fdp_nrw"
             },
             {
-                "start": 226,
-                "end": 234,
+                "start": 230,
+                "end": 238,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -9750,8 +9738,8 @@
                 "text": "@fdp_nrw"
             },
             {
-                "start": 253,
-                "end": 261,
+                "start": 257,
+                "end": 265,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -9807,8 +9795,8 @@
         },
         "spans": [
             {
-                "start": 111,
-                "end": 118,
+                "start": 112,
+                "end": 119,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -9831,8 +9819,8 @@
                 "text": "@AlternativeNRW"
             },
             {
-                "start": 129,
-                "end": 133,
+                "start": 130,
+                "end": 134,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -9970,8 +9958,8 @@
         },
         "spans": [
             {
-                "start": 124,
-                "end": 130,
+                "start": 125,
+                "end": 131,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -10109,8 +10097,8 @@
         },
         "spans": [
             {
-                "start": 223,
-                "end": 235,
+                "start": 224,
+                "end": 236,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -10131,8 +10119,8 @@
         },
         "spans": [
             {
-                "start": 227,
-                "end": 241,
+                "start": 230,
+                "end": 244,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -10280,8 +10268,8 @@
         },
         "spans": [
             {
-                "start": 241,
-                "end": 258,
+                "start": 242,
+                "end": 259,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -10292,8 +10280,8 @@
                 "text": "#FDPunter5Prozent"
             },
             {
-                "start": 213,
-                "end": 229,
+                "start": 214,
+                "end": 230,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -10304,8 +10292,8 @@
                 "text": "@spd_fraktion_nw"
             },
             {
-                "start": 260,
-                "end": 283,
+                "start": 261,
+                "end": 284,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -10374,8 +10362,8 @@
                 "text": "#Gruenen"
             },
             {
-                "start": 155,
-                "end": 160,
+                "start": 156,
+                "end": 161,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -10688,8 +10676,8 @@
         },
         "spans": [
             {
-                "start": 130,
-                "end": 134,
+                "start": 133,
+                "end": 137,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -10747,8 +10735,8 @@
                 "text": "#Gruenen"
             },
             {
-                "start": 44,
-                "end": 56,
+                "start": 45,
+                "end": 57,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -10891,18 +10879,6 @@
                     }
                 ],
                 "text": "#noAfD"
-            },
-            {
-                "start": 10,
-                "end": 13,
-                "affiliations": [
-                    {
-                        "name": "AfD",
-                        "affiliation_type": "party",
-                        "association": null
-                    }
-                ],
-                "text": "AfD"
             }
         ],
         "spans_not_annotated": [],
@@ -10962,8 +10938,8 @@
         },
         "spans": [
             {
-                "start": 77,
-                "end": 81,
+                "start": 78,
+                "end": 82,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -10986,8 +10962,8 @@
                 "text": "#Lauterbach"
             },
             {
-                "start": 231,
-                "end": 237,
+                "start": 233,
+                "end": 239,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -11023,18 +10999,6 @@
                     }
                 ],
                 "text": "#GruenerMist"
-            },
-            {
-                "start": 44,
-                "end": 55,
-                "affiliations": [
-                    {
-                        "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
-                        "affiliation_type": "party",
-                        "association": null
-                    }
-                ],
-                "text": "GruenerMist"
             }
         ],
         "spans_not_annotated": [],
@@ -11082,8 +11046,8 @@
         },
         "spans": [
             {
-                "start": 215,
-                "end": 228,
+                "start": 216,
+                "end": 229,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -11094,8 +11058,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 135,
-                "end": 141,
+                "start": 136,
+                "end": 142,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11106,8 +11070,8 @@
                 "text": "@hreul"
             },
             {
-                "start": 121,
-                "end": 134,
+                "start": 122,
+                "end": 135,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11197,8 +11161,8 @@
         },
         "spans": [
             {
-                "start": 176,
-                "end": 187,
+                "start": 179,
+                "end": 190,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -11209,8 +11173,8 @@
                 "text": "Wagenknecht"
             },
             {
-                "start": 74,
-                "end": 83,
+                "start": 75,
+                "end": 84,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -11506,8 +11470,8 @@
         },
         "spans": [
             {
-                "start": 207,
-                "end": 214,
+                "start": 208,
+                "end": 215,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -11606,8 +11570,8 @@
         },
         "spans": [
             {
-                "start": 75,
-                "end": 78,
+                "start": 76,
+                "end": 79,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -11675,8 +11639,8 @@
         },
         "spans": [
             {
-                "start": 168,
-                "end": 172,
+                "start": 169,
+                "end": 173,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11687,8 +11651,8 @@
                 "text": "#CDU"
             },
             {
-                "start": 117,
-                "end": 124,
+                "start": 118,
+                "end": 125,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11699,8 +11663,8 @@
                 "text": "#Merkel"
             },
             {
-                "start": 242,
-                "end": 245,
+                "start": 243,
+                "end": 246,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11711,8 +11675,8 @@
                 "text": "CDU"
             },
             {
-                "start": 287,
-                "end": 290,
+                "start": 288,
+                "end": 291,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11768,8 +11732,8 @@
         },
         "spans": [
             {
-                "start": 159,
-                "end": 174,
+                "start": 160,
+                "end": 175,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -11858,8 +11822,8 @@
         },
         "spans": [
             {
-                "start": 210,
-                "end": 227,
+                "start": 212,
+                "end": 229,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11870,8 +11834,8 @@
                 "text": "Holthoff-Pf\u00f6rtner"
             },
             {
-                "start": 193,
-                "end": 205,
+                "start": 195,
+                "end": 207,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11882,8 +11846,8 @@
                 "text": "Scharrenbach"
             },
             {
-                "start": 179,
-                "end": 191,
+                "start": 181,
+                "end": 193,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11894,8 +11858,8 @@
                 "text": "Heinen-Esser"
             },
             {
-                "start": 62,
-                "end": 65,
+                "start": 63,
+                "end": 66,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11928,8 +11892,8 @@
                 "text": "Heinen-Esser"
             },
             {
-                "start": 209,
-                "end": 212,
+                "start": 211,
+                "end": 214,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11940,8 +11904,8 @@
                 "text": "CDU"
             },
             {
-                "start": 265,
-                "end": 268,
+                "start": 268,
+                "end": 271,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11953,7 +11917,7 @@
             },
             {
                 "start": 77,
-                "end": 80,
+                "end": 83,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -11961,7 +11925,7 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "CDUNRW"
             }
         ],
         "spans_not_annotated": [],
@@ -12423,8 +12387,8 @@
         },
         "spans": [
             {
-                "start": 235,
-                "end": 245,
+                "start": 236,
+                "end": 246,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -12435,8 +12399,8 @@
                 "text": "@CDUNRW_de"
             },
             {
-                "start": 246,
-                "end": 253,
+                "start": 247,
+                "end": 254,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -12447,8 +12411,8 @@
                 "text": "@nrwspd"
             },
             {
-                "start": 254,
-                "end": 262,
+                "start": 255,
+                "end": 263,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -12459,8 +12423,8 @@
                 "text": "@fdp_nrw"
             },
             {
-                "start": 263,
-                "end": 273,
+                "start": 264,
+                "end": 274,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -12746,8 +12710,8 @@
                 "text": "Schwarz-Gelb"
             },
             {
-                "start": 93,
-                "end": 96,
+                "start": 94,
+                "end": 97,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -12881,8 +12845,8 @@
         },
         "spans": [
             {
-                "start": 142,
-                "end": 148,
+                "start": 143,
+                "end": 149,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -12948,8 +12912,8 @@
         },
         "spans": [
             {
-                "start": 109,
-                "end": 113,
+                "start": 110,
+                "end": 114,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -12960,8 +12924,8 @@
                 "text": "#cdu"
             },
             {
-                "start": 118,
-                "end": 122,
+                "start": 119,
+                "end": 123,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -12983,8 +12947,8 @@
         },
         "spans": [
             {
-                "start": 134,
-                "end": 144,
+                "start": 135,
+                "end": 145,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -13097,8 +13061,8 @@
                 "text": "@dieLinke"
             },
             {
-                "start": 184,
-                "end": 193,
+                "start": 185,
+                "end": 194,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -13224,8 +13188,8 @@
         },
         "spans": [
             {
-                "start": 100,
-                "end": 104,
+                "start": 101,
+                "end": 105,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -13248,8 +13212,8 @@
                 "text": "#Laschet"
             },
             {
-                "start": 137,
-                "end": 154,
+                "start": 138,
+                "end": 155,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -13305,8 +13269,8 @@
         },
         "spans": [
             {
-                "start": 270,
-                "end": 286,
+                "start": 271,
+                "end": 287,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -13418,8 +13382,8 @@
         },
         "spans": [
             {
-                "start": 125,
-                "end": 139,
+                "start": 127,
+                "end": 141,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -13440,8 +13404,8 @@
         },
         "spans": [
             {
-                "start": 96,
-                "end": 102,
+                "start": 97,
+                "end": 103,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -13659,8 +13623,8 @@
         },
         "spans": [
             {
-                "start": 237,
-                "end": 245,
+                "start": 238,
+                "end": 246,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -13850,8 +13814,8 @@
         },
         "spans": [
             {
-                "start": 163,
-                "end": 167,
+                "start": 164,
+                "end": 168,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -14130,8 +14094,8 @@
         },
         "spans": [
             {
-                "start": 156,
-                "end": 161,
+                "start": 157,
+                "end": 162,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -14507,8 +14471,8 @@
         },
         "spans": [
             {
-                "start": 226,
-                "end": 230,
+                "start": 227,
+                "end": 231,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -14519,8 +14483,8 @@
                 "text": "#AfD"
             },
             {
-                "start": 154,
-                "end": 167,
+                "start": 155,
+                "end": 168,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -14577,8 +14541,8 @@
         },
         "spans": [
             {
-                "start": 171,
-                "end": 185,
+                "start": 173,
+                "end": 187,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -14589,8 +14553,8 @@
                 "text": "#NieMehrCDUCSU"
             },
             {
-                "start": 198,
-                "end": 215,
+                "start": 200,
+                "end": 217,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -14601,8 +14565,8 @@
                 "text": "#LauterbachBleibt"
             },
             {
-                "start": 186,
-                "end": 197,
+                "start": 188,
+                "end": 199,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -14734,8 +14698,8 @@
         },
         "spans": [
             {
-                "start": 124,
-                "end": 130,
+                "start": 125,
+                "end": 131,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -14746,8 +14710,8 @@
                 "text": "Giffey"
             },
             {
-                "start": 132,
-                "end": 140,
+                "start": 133,
+                "end": 141,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -14768,8 +14732,8 @@
         },
         "spans": [
             {
-                "start": 247,
-                "end": 250,
+                "start": 253,
+                "end": 256,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -14920,8 +14884,8 @@
         },
         "spans": [
             {
-                "start": 233,
-                "end": 247,
+                "start": 235,
+                "end": 249,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -14932,8 +14896,8 @@
                 "text": "#NieMehrCDUCSU"
             },
             {
-                "start": 248,
-                "end": 259,
+                "start": 250,
+                "end": 261,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -14944,8 +14908,8 @@
                 "text": "#niemehrFDP"
             },
             {
-                "start": 210,
-                "end": 222,
+                "start": 211,
+                "end": 223,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -15134,8 +15098,8 @@
                 "text": "@Thomas_Bareiss"
             },
             {
-                "start": 152,
-                "end": 161,
+                "start": 151,
+                "end": 165,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15143,11 +15107,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDUBerlin"
+                "text": "@CDUBerlin_AGH"
             },
             {
-                "start": 184,
-                "end": 187,
+                "start": 183,
+                "end": 191,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15155,11 +15119,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDU_SLT"
             },
             {
-                "start": 193,
-                "end": 196,
+                "start": 192,
+                "end": 208,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15167,11 +15131,11 @@
                         "association": null
                     }
                 ],
-                "text": "cdu"
+                "text": "@cdu_fraktion_th"
             },
             {
-                "start": 210,
-                "end": 213,
+                "start": 209,
+                "end": 222,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15179,11 +15143,11 @@
                         "association": null
                     }
                 ],
-                "text": "cdu"
+                "text": "@cdu_fraktion"
             },
             {
-                "start": 257,
-                "end": 260,
+                "start": 256,
+                "end": 270,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15191,11 +15155,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDU_FRAK_SAAR"
             },
             {
-                "start": 272,
-                "end": 275,
+                "start": 271,
+                "end": 286,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15203,11 +15167,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDU_FraktionBW"
             },
             {
-                "start": 61,
-                "end": 64,
+                "start": 60,
+                "end": 74,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15215,11 +15179,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDUFraktionSH"
             },
             {
-                "start": 89,
-                "end": 92,
+                "start": 88,
+                "end": 102,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15227,11 +15191,11 @@
                         "association": null
                     }
                 ],
-                "text": "cdu"
+                "text": "@cdufraktionmv"
             },
             {
-                "start": 104,
-                "end": 107,
+                "start": 103,
+                "end": 119,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15239,11 +15203,11 @@
                         "association": null
                     }
                 ],
-                "text": "cdu"
+                "text": "@cdufraktion_nds"
             },
             {
-                "start": 121,
-                "end": 124,
+                "start": 120,
+                "end": 134,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15251,11 +15215,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDUFraktionHB"
             },
             {
-                "start": 136,
-                "end": 139,
+                "start": 135,
+                "end": 150,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15263,11 +15227,11 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDUFraktionBRB"
             },
             {
-                "start": 167,
-                "end": 170,
+                "start": 166,
+                "end": 182,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15275,11 +15239,11 @@
                         "association": null
                     }
                 ],
-                "text": "cdu"
+                "text": "@cdufraktion_LSA"
             },
             {
-                "start": 241,
-                "end": 244,
+                "start": 240,
+                "end": 255,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15287,7 +15251,7 @@
                         "association": null
                     }
                 ],
-                "text": "CDU"
+                "text": "@CDUFraktionRLP"
             }
         ],
         "spans_not_annotated": [],
@@ -15313,7 +15277,7 @@
                 "text": "@JoachimStamp"
             },
             {
-                "start": 244,
+                "start": 239,
                 "end": 247,
                 "affiliations": [
                     {
@@ -15322,7 +15286,7 @@
                         "association": null
                     }
                 ],
-                "text": "fdp"
+                "text": "@sls_fdp"
             }
         ],
         "spans_not_annotated": [],
@@ -15335,8 +15299,8 @@
         },
         "spans": [
             {
-                "start": 255,
-                "end": 269,
+                "start": 256,
+                "end": 270,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -15463,8 +15427,8 @@
                 "text": "@nrwspd"
             },
             {
-                "start": 233,
-                "end": 236,
+                "start": 234,
+                "end": 237,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15575,8 +15539,8 @@
         },
         "spans": [
             {
-                "start": 65,
-                "end": 86,
+                "start": 66,
+                "end": 87,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -15735,8 +15699,8 @@
         },
         "spans": [
             {
-                "start": 152,
-                "end": 161,
+                "start": 153,
+                "end": 162,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -15747,8 +15711,8 @@
                 "text": "#DieLinke"
             },
             {
-                "start": 162,
-                "end": 176,
+                "start": 163,
+                "end": 177,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -15962,8 +15926,8 @@
         },
         "spans": [
             {
-                "start": 81,
-                "end": 86,
+                "start": 82,
+                "end": 87,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -15974,8 +15938,8 @@
                 "text": "Union"
             },
             {
-                "start": 73,
-                "end": 76,
+                "start": 74,
+                "end": 77,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -16074,8 +16038,8 @@
         },
         "spans": [
             {
-                "start": 212,
-                "end": 216,
+                "start": 214,
+                "end": 218,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -16086,8 +16050,8 @@
                 "text": "#SPD"
             },
             {
-                "start": 182,
-                "end": 195,
+                "start": 183,
+                "end": 196,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -16098,8 +16062,8 @@
                 "text": "#NRWvonMorgen"
             },
             {
-                "start": 89,
-                "end": 102,
+                "start": 90,
+                "end": 103,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -16191,8 +16155,8 @@
         },
         "spans": [
             {
-                "start": 230,
-                "end": 234,
+                "start": 232,
+                "end": 236,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -16203,8 +16167,8 @@
                 "text": "#CDU"
             },
             {
-                "start": 241,
-                "end": 245,
+                "start": 243,
+                "end": 247,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -16238,8 +16202,8 @@
         },
         "spans": [
             {
-                "start": 215,
-                "end": 227,
+                "start": 220,
+                "end": 232,
                 "affiliations": [
                     {
                         "name": "Mona Neubaur",
@@ -16250,8 +16214,8 @@
                 "text": "@MonaNeubaur"
             },
             {
-                "start": 198,
-                "end": 208,
+                "start": 203,
+                "end": 213,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -16272,8 +16236,8 @@
         },
         "spans": [
             {
-                "start": 123,
-                "end": 132,
+                "start": 126,
+                "end": 135,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -16284,8 +16248,8 @@
                 "text": "@dielinke"
             },
             {
-                "start": 110,
-                "end": 122,
+                "start": 113,
+                "end": 125,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -16342,8 +16306,8 @@
         },
         "spans": [
             {
-                "start": 191,
-                "end": 204,
+                "start": 192,
+                "end": 205,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -16354,8 +16318,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 105,
-                "end": 121,
+                "start": 106,
+                "end": 122,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -16366,8 +16330,8 @@
                 "text": "@_SimoneWendland"
             },
             {
-                "start": 139,
-                "end": 155,
+                "start": 140,
+                "end": 156,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -16378,8 +16342,8 @@
                 "text": "@AllendorfJulian"
             },
             {
-                "start": 123,
-                "end": 137,
+                "start": 124,
+                "end": 138,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -16503,8 +16467,8 @@
         },
         "spans": [
             {
-                "start": 74,
-                "end": 78,
+                "start": 75,
+                "end": 79,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -16577,7 +16541,7 @@
                 "text": "@GrueneFrakNRW"
             },
             {
-                "start": 119,
+                "start": 114,
                 "end": 122,
                 "affiliations": [
                     {
@@ -16586,7 +16550,7 @@
                         "association": null
                     }
                 ],
-                "text": "SPD"
+                "text": "@NRW_SPD"
             }
         ],
         "spans_not_annotated": [],
@@ -16680,8 +16644,8 @@
         },
         "spans": [
             {
-                "start": 251,
-                "end": 264,
+                "start": 257,
+                "end": 270,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -16692,8 +16656,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 206,
-                "end": 222,
+                "start": 209,
+                "end": 225,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -17246,8 +17210,8 @@
         },
         "spans": [
             {
-                "start": 252,
-                "end": 264,
+                "start": 253,
+                "end": 265,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -17258,8 +17222,8 @@
                 "text": "Schwarz-Gelb"
             },
             {
-                "start": 218,
-                "end": 230,
+                "start": 219,
+                "end": 231,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -17339,8 +17303,8 @@
         },
         "spans": [
             {
-                "start": 67,
-                "end": 73,
+                "start": 68,
+                "end": 74,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -17351,8 +17315,8 @@
                 "text": "Gr\u00fcnen"
             },
             {
-                "start": 58,
-                "end": 61,
+                "start": 59,
+                "end": 62,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -17554,8 +17518,8 @@
                 "text": "@fdp"
             },
             {
-                "start": 151,
-                "end": 155,
+                "start": 152,
+                "end": 156,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -17566,8 +17530,8 @@
                 "text": "@fdp"
             },
             {
-                "start": 156,
-                "end": 160,
+                "start": 157,
+                "end": 161,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -17796,8 +17760,8 @@
         },
         "spans": [
             {
-                "start": 113,
-                "end": 117,
+                "start": 114,
+                "end": 118,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -18045,8 +18009,8 @@
         },
         "spans": [
             {
-                "start": 147,
-                "end": 157,
+                "start": 148,
+                "end": 158,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -18201,8 +18165,8 @@
         },
         "spans": [
             {
-                "start": 187,
-                "end": 198,
+                "start": 190,
+                "end": 201,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -18338,8 +18302,8 @@
                 "text": "#dieGr\u00fcnen"
             },
             {
-                "start": 189,
-                "end": 201,
+                "start": 191,
+                "end": 203,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -18394,8 +18358,8 @@
         },
         "spans": [
             {
-                "start": 229,
-                "end": 239,
+                "start": 230,
+                "end": 240,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -18406,8 +18370,8 @@
                 "text": "#Lambrecht"
             },
             {
-                "start": 153,
-                "end": 160,
+                "start": 154,
+                "end": 161,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -18418,8 +18382,8 @@
                 "text": "#Giffey"
             },
             {
-                "start": 189,
-                "end": 198,
+                "start": 190,
+                "end": 199,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -18430,8 +18394,8 @@
                 "text": "#Schwesig"
             },
             {
-                "start": 121,
-                "end": 125,
+                "start": 122,
+                "end": 126,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -18475,8 +18439,8 @@
         },
         "spans": [
             {
-                "start": 268,
-                "end": 288,
+                "start": 269,
+                "end": 289,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -18499,8 +18463,8 @@
                 "text": "@fdpbt"
             },
             {
-                "start": 158,
-                "end": 167,
+                "start": 159,
+                "end": 168,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -18555,8 +18519,8 @@
         },
         "spans": [
             {
-                "start": 190,
-                "end": 201,
+                "start": 194,
+                "end": 205,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -18567,8 +18531,8 @@
                 "text": "Wagenknecht"
             },
             {
-                "start": 25,
-                "end": 34,
+                "start": 27,
+                "end": 36,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -18611,18 +18575,6 @@
                     }
                 ],
                 "text": "#AfD"
-            },
-            {
-                "start": 140,
-                "end": 143,
-                "affiliations": [
-                    {
-                        "name": "AfD",
-                        "affiliation_type": "party",
-                        "association": null
-                    }
-                ],
-                "text": "AfD"
             }
         ],
         "spans_not_annotated": [],
@@ -18705,8 +18657,8 @@
         },
         "spans": [
             {
-                "start": 236,
-                "end": 245,
+                "start": 239,
+                "end": 248,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -18717,8 +18669,8 @@
                 "text": "@DJanecek"
             },
             {
-                "start": 247,
-                "end": 257,
+                "start": 250,
+                "end": 261,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -18726,7 +18678,7 @@
                         "association": null
                     }
                 ],
-                "text": "diegruenen"
+                "text": "@diegruenen"
             }
         ],
         "spans_not_annotated": [],
@@ -18869,7 +18821,7 @@
         "spans": [
             {
                 "start": 60,
-                "end": 72,
+                "end": 74,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -18877,7 +18829,7 @@
                         "association": null
                     }
                 ],
-                "text": "Schwarz-Gelb"
+                "text": "Schwarz-Gelben"
             },
             {
                 "start": 0,
@@ -18994,8 +18946,8 @@
         },
         "spans": [
             {
-                "start": 265,
-                "end": 276,
+                "start": 268,
+                "end": 279,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19051,8 +19003,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 150,
-                "end": 160,
+                "start": 151,
+                "end": 161,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -19109,8 +19061,8 @@
                 "text": "#FDP"
             },
             {
-                "start": 137,
-                "end": 150,
+                "start": 138,
+                "end": 151,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19121,8 +19073,8 @@
                 "text": "@FDPWuppertal"
             },
             {
-                "start": 78,
-                "end": 90,
+                "start": 79,
+                "end": 91,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19503,8 +19455,8 @@
         },
         "spans": [
             {
-                "start": 59,
-                "end": 70,
+                "start": 60,
+                "end": 71,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19515,8 +19467,8 @@
                 "text": "@OlafScholz"
             },
             {
-                "start": 215,
-                "end": 225,
+                "start": 217,
+                "end": 227,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19527,8 +19479,8 @@
                 "text": "@c_lindner"
             },
             {
-                "start": 130,
-                "end": 134,
+                "start": 132,
+                "end": 136,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -19539,8 +19491,8 @@
                 "text": "@CDU"
             },
             {
-                "start": 140,
-                "end": 149,
+                "start": 142,
+                "end": 151,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -19551,8 +19503,8 @@
                 "text": "@cducsubt"
             },
             {
-                "start": 175,
-                "end": 181,
+                "start": 177,
+                "end": 183,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19563,8 +19515,8 @@
                 "text": "@spdde"
             },
             {
-                "start": 150,
-                "end": 156,
+                "start": 152,
+                "end": 158,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19575,8 +19527,8 @@
                 "text": "@spdbt"
             },
             {
-                "start": 157,
-                "end": 167,
+                "start": 159,
+                "end": 169,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19587,8 +19539,8 @@
                 "text": "@spdberlin"
             },
             {
-                "start": 210,
-                "end": 214,
+                "start": 212,
+                "end": 216,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19599,8 +19551,8 @@
                 "text": "@fdp"
             },
             {
-                "start": 192,
-                "end": 208,
+                "start": 194,
+                "end": 210,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19611,8 +19563,8 @@
                 "text": "@spd_fraktion_nw"
             },
             {
-                "start": 182,
-                "end": 191,
+                "start": 184,
+                "end": 193,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19623,8 +19575,8 @@
                 "text": "@MiRo_SPD"
             },
             {
-                "start": 169,
-                "end": 174,
+                "start": 170,
+                "end": 176,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19632,11 +19584,11 @@
                         "association": null
                     }
                 ],
-                "text": "jusos"
+                "text": "@jusos"
             },
             {
                 "start": 126,
-                "end": 129,
+                "end": 130,
                 "affiliations": [
                     {
                         "name": "CDU",
@@ -19644,7 +19596,7 @@
                         "association": "Annegret Kramp-Karrenbauer"
                     }
                 ],
-                "text": "akk"
+                "text": "@akk"
             }
         ],
         "spans_not_annotated": [],
@@ -19679,8 +19631,8 @@
         },
         "spans": [
             {
-                "start": 119,
-                "end": 133,
+                "start": 121,
+                "end": 135,
                 "affiliations": [
                     {
                         "name": "B\u00fcndnis 90/Die Gr\u00fcnen",
@@ -19746,8 +19698,8 @@
         },
         "spans": [
             {
-                "start": 173,
-                "end": 178,
+                "start": 174,
+                "end": 179,
                 "affiliations": [
                     {
                         "name": "AfD",
@@ -19786,8 +19738,8 @@
                 "text": "#FDPrausausderRegierung"
             },
             {
-                "start": 238,
-                "end": 255,
+                "start": 242,
+                "end": 259,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -19798,8 +19750,8 @@
                 "text": "#LauterbachBleibt"
             },
             {
-                "start": 166,
-                "end": 181,
+                "start": 167,
+                "end": 182,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19810,8 +19762,8 @@
                 "text": "#fdpdurchseucht"
             },
             {
-                "start": 182,
-                "end": 196,
+                "start": 184,
+                "end": 198,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19822,8 +19774,8 @@
                 "text": "#FDPrausausNRW"
             },
             {
-                "start": 197,
-                "end": 214,
+                "start": 200,
+                "end": 217,
                 "affiliations": [
                     {
                         "name": "FDP",
@@ -19901,8 +19853,8 @@
         },
         "spans": [
             {
-                "start": 225,
-                "end": 238,
+                "start": 228,
+                "end": 241,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -19967,8 +19919,8 @@
         },
         "spans": [
             {
-                "start": 143,
-                "end": 155,
+                "start": 144,
+                "end": 156,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -20111,8 +20063,8 @@
         },
         "spans": [
             {
-                "start": 265,
-                "end": 273,
+                "start": 266,
+                "end": 274,
                 "affiliations": [
                     {
                         "name": "Mona Neubaur",
@@ -20412,8 +20364,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 173,
-                "end": 177,
+                "start": 174,
+                "end": 178,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -20491,8 +20443,8 @@
         },
         "spans": [
             {
-                "start": 244,
-                "end": 255,
+                "start": 246,
+                "end": 257,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -20535,8 +20487,8 @@
         },
         "spans": [
             {
-                "start": 269,
-                "end": 273,
+                "start": 270,
+                "end": 274,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -20725,8 +20677,8 @@
                 "text": "Hendrik W\u00fcst"
             },
             {
-                "start": 233,
-                "end": 245,
+                "start": 235,
+                "end": 247,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -21132,8 +21084,8 @@
         },
         "spans": [
             {
-                "start": 111,
-                "end": 127,
+                "start": 116,
+                "end": 132,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -21154,8 +21106,8 @@
         },
         "spans": [
             {
-                "start": 267,
-                "end": 276,
+                "start": 268,
+                "end": 277,
                 "affiliations": [
                     {
                         "name": "Die Linke",
@@ -21276,8 +21228,8 @@
         },
         "spans": [
             {
-                "start": 187,
-                "end": 193,
+                "start": 189,
+                "end": 195,
                 "affiliations": [
                     {
                         "name": "Joachim Stamp",
@@ -21480,8 +21432,8 @@
         },
         "spans": [
             {
-                "start": 173,
-                "end": 178,
+                "start": 174,
+                "end": 179,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -21612,8 +21564,8 @@
         },
         "spans": [
             {
-                "start": 159,
-                "end": 164,
+                "start": 164,
+                "end": 169,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -21744,8 +21696,8 @@
         },
         "spans": [
             {
-                "start": 228,
-                "end": 232,
+                "start": 229,
+                "end": 233,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -21832,8 +21784,8 @@
         },
         "spans": [
             {
-                "start": 124,
-                "end": 127,
+                "start": 125,
+                "end": 128,
                 "affiliations": [
                     {
                         "name": "Joachim Stamp",
@@ -21844,8 +21796,8 @@
                 "text": "FDP"
             },
             {
-                "start": 94,
-                "end": 99,
+                "start": 95,
+                "end": 100,
                 "affiliations": [
                     {
                         "name": "Joachim Stamp",
@@ -21888,8 +21840,8 @@
         },
         "spans": [
             {
-                "start": 211,
-                "end": 223,
+                "start": 213,
+                "end": 225,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -21976,8 +21928,8 @@
         },
         "spans": [
             {
-                "start": 208,
-                "end": 228,
+                "start": 209,
+                "end": 229,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -22020,8 +21972,8 @@
         },
         "spans": [
             {
-                "start": 246,
-                "end": 259,
+                "start": 248,
+                "end": 261,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -22475,8 +22427,8 @@
         },
         "spans": [
             {
-                "start": 110,
-                "end": 123,
+                "start": 112,
+                "end": 125,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -22497,8 +22449,8 @@
         },
         "spans": [
             {
-                "start": 137,
-                "end": 143,
+                "start": 138,
+                "end": 144,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -22844,8 +22796,8 @@
         },
         "spans": [
             {
-                "start": 22,
-                "end": 26,
+                "start": 24,
+                "end": 28,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -22935,8 +22887,8 @@
         },
         "spans": [
             {
-                "start": 63,
-                "end": 76,
+                "start": 64,
+                "end": 77,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -23016,8 +22968,8 @@
                 "text": "#W\u00fcstAbw\u00e4hlen"
             },
             {
-                "start": 130,
-                "end": 142,
+                "start": 131,
+                "end": 143,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -23381,8 +23333,8 @@
         },
         "spans": [
             {
-                "start": 202,
-                "end": 216,
+                "start": 205,
+                "end": 219,
                 "affiliations": [
                     {
                         "name": "Markus Wagner",
@@ -23481,8 +23433,8 @@
         },
         "spans": [
             {
-                "start": 223,
-                "end": 235,
+                "start": 224,
+                "end": 236,
                 "affiliations": [
                     {
                         "name": "Mona Neubaur",
@@ -23703,8 +23655,8 @@
         },
         "spans": [
             {
-                "start": 388,
-                "end": 403,
+                "start": 390,
+                "end": 405,
                 "affiliations": [
                     {
                         "name": "Markus Wagner",
@@ -23829,8 +23781,8 @@
         },
         "spans": [
             {
-                "start": 105,
-                "end": 117,
+                "start": 106,
+                "end": 118,
                 "affiliations": [
                     {
                         "name": "Mona Neubaur",
@@ -24076,8 +24028,8 @@
                 "text": "Malu Dreyer"
             },
             {
-                "start": 169,
-                "end": 175,
+                "start": 170,
+                "end": 176,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -24154,8 +24106,8 @@
         },
         "spans": [
             {
-                "start": 200,
-                "end": 216,
+                "start": 201,
+                "end": 217,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -24188,8 +24140,8 @@
                 "text": "FDP"
             },
             {
-                "start": 178,
-                "end": 183,
+                "start": 179,
+                "end": 184,
                 "affiliations": [
                     {
                         "name": "Joachim Stamp",
@@ -24596,8 +24548,8 @@
         },
         "spans": [
             {
-                "start": 69,
-                "end": 82,
+                "start": 70,
+                "end": 83,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -24854,8 +24806,8 @@
                 "text": "@HendrikWuest"
             },
             {
-                "start": 35,
-                "end": 51,
+                "start": 37,
+                "end": 53,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -24955,8 +24907,8 @@
         },
         "spans": [
             {
-                "start": 206,
-                "end": 211,
+                "start": 208,
+                "end": 213,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25124,8 +25076,8 @@
         },
         "spans": [
             {
-                "start": 128,
-                "end": 132,
+                "start": 129,
+                "end": 133,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25227,8 +25179,8 @@
                 "text": "#W\u00fcstAbw\u00e4hlen"
             },
             {
-                "start": 95,
-                "end": 107,
+                "start": 96,
+                "end": 108,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25374,8 +25326,8 @@
         },
         "spans": [
             {
-                "start": 355,
-                "end": 370,
+                "start": 356,
+                "end": 371,
                 "affiliations": [
                     {
                         "name": "Markus Wagner",
@@ -25418,8 +25370,8 @@
         },
         "spans": [
             {
-                "start": 131,
-                "end": 144,
+                "start": 133,
+                "end": 146,
                 "affiliations": [
                     {
                         "name": "Joachim Stamp",
@@ -25441,8 +25393,8 @@
         },
         "spans": [
             {
-                "start": 205,
-                "end": 226,
+                "start": 207,
+                "end": 228,
                 "affiliations": [
                     {
                         "name": "SPD",
@@ -25453,8 +25405,8 @@
                 "text": "#LauterbachRuecktritt"
             },
             {
-                "start": 55,
-                "end": 60,
+                "start": 56,
+                "end": 61,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25519,8 +25471,8 @@
         },
         "spans": [
             {
-                "start": 222,
-                "end": 235,
+                "start": 224,
+                "end": 237,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25563,8 +25515,8 @@
         },
         "spans": [
             {
-                "start": 153,
-                "end": 157,
+                "start": 155,
+                "end": 159,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25629,8 +25581,8 @@
         },
         "spans": [
             {
-                "start": 117,
-                "end": 133,
+                "start": 118,
+                "end": 134,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -25651,8 +25603,8 @@
         },
         "spans": [
             {
-                "start": 257,
-                "end": 266,
+                "start": 258,
+                "end": 267,
                 "affiliations": [
                     {
                         "name": "Thomas Kutschaty",
@@ -25717,8 +25669,8 @@
         },
         "spans": [
             {
-                "start": 19,
-                "end": 32,
+                "start": 20,
+                "end": 33,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25830,8 +25782,8 @@
                 "text": "Hendrik W\u00fcst"
             },
             {
-                "start": 208,
-                "end": 220,
+                "start": 209,
+                "end": 221,
                 "affiliations": [
                     {
                         "name": "Hendrik W\u00fcst",
@@ -25887,8 +25839,8 @@
         },
         "spans": [
             {
-                "start": 243,
-                "end": 258,
+                "start": 244,
+                "end": 259,
                 "affiliations": [
                     {
                         "name": "Markus Wagner",
