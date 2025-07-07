@@ -1,10 +1,10 @@
-# The 2022 German State Election in North Rhine-Westphalia - A Twitter Stance Dataset
+# NRW22-Stance: Dataset for Continuous Multi-Target Stance Detection towards German Political Actors
 
 ## 👋 Welcome
 
 We present a multi-target stance detection dataset consisting of tweets collected during the 2022 German state election in North Rhine-Westphalia. It is divided into one training dataset and eight subsequent testing datasets that do not overlap in time. These datasets contain tweets, replies, and quoted retweets annotated for the task of target-dependend stance detection.
 
-**IMPORTANT:** We provide only tweet IDs and our annotations. The original tweet texts and additional tweet metadata are not part of this dataset.
+**IMPORTANT:** We provide only tweet IDs and our annotations. The original tweet texts and additional tweet metadata are not part of the public dataset.
 
 ## 🏷 Annotation Procedure
 
@@ -175,10 +175,10 @@ Every dataset part is provided as a JSON file consisting of a list of JSON objec
 ## ✍️ Citation
 
 ```
-@misc{sparta2024nrw,
+@misc{sparta2025nrw,
     author = {Drews, Wiebke and Steup, Johannes and Müller, Arthur and Neumeier, Andreas and Riedl, Jasmin},
-    title = {{The 2022 German State Election in North Rhine-Westphalia - A Twitter Stance Dataset}},
-    year = {2024},
+    title = {{NRW22-Stance: Dataset for Continuous Multi-Target Stance Detection towards German Political Actors}},
+    year = {2025},
     howpublished = {\url{<https://github.com/UnibwSparta/German-Elections-NRW22-Stance-Dataset/>}},
 }
 ```
