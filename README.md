@@ -176,7 +176,7 @@ Every dataset part is provided as a JSON file consisting of a list of JSON objec
 
 ```
 @misc{sparta2025nrw,
-    author = {Drews, Wiebke and Steup, Johannes and Müller, Arthur and Neumeier, Andreas and Riedl, Jasmin},
+    author = {Müller, Arthur and Riedl, Jasmin and Drews, Wiebke and Steup, Johannes and Neumeier, Andreas},
     title = {{NRW22-Stance: Dataset for Continuous Multi-Target Stance Detection towards German Political Actors}},
     year = {2025},
     howpublished = {\url{<https://github.com/UnibwSparta/German-Elections-NRW22-Stance-Dataset/>}},
