@@ -175,10 +175,19 @@ Every dataset part is provided as a JSON file consisting of a list of JSON objec
 ## ✍️ Citation
 
 ```
-@misc{sparta2025nrw,
-    author = {Müller, Arthur and Riedl, Jasmin and Drews, Wiebke and Steup, Johannes and Neumeier, Andreas},
-    title = {{NRW22-Stance: Dataset for Continuous Multi-Target Stance Detection towards German Political Actors}},
-    year = {2025},
-    howpublished = {\url{<https://github.com/UnibwSparta/German-Elections-NRW22-Stance-Dataset/>}},
+@InProceedings{10.1007/978-3-032-07986-2_36,
+  author="M{\"u}ller, Arthur
+    and Riedl, Jasmin
+    and Drews, Wiebke
+    and Steup, Johannes
+    and Neumeier, Andreas",
+  editor="Arai, Kohei",
+  title="NRW22-Stance: Dataset for Continuous Multi-target Stance Detection Towards German Political Actors",
+  booktitle="Proceedings of the Future Technologies Conference (FTC) 2025, Volume 1",
+  year="2026",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="559--588",
+  isbn="978-3-032-07986-2"
 }
 ```
