@@ -73,6 +73,9 @@ Every tweet in the dataset contains at least one target entity. The table below 
 | Die Linke | 740 | 49 | 81 | 34 | 49 | 93 | 54 | 115 | 160 |
 | FDP | 1922 | 222 | 290 | 83 | 124 | 181 | 209 | 232 | 244 |
 | SPD | 1805 | 205 | 285 | 124 | 143 | 214 | 255 | 278 | 285 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | *Leading Candidates* |
 | Carolin Butterwegge (Die Linke) | 21 | 1 | 1 | 1 | 0 | 2 | 3 | 2 | 10 |
 | Hendrik Wüst (CDU) | 1751 | 162 | 204 | 150 | 180 | 272 | 286 | 366 | 478 |
