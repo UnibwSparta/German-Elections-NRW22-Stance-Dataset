@@ -64,17 +64,16 @@ After sampling and annotating the tweets, we retained only those with at least o
 Every tweet in the dataset contains at least one target entity. The table below summarizes the number of unique target entity mentions based on the entity type. We distinguish between parties and their leading candidates.
 
 
-| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | *Parties* |
+| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | AfD | 1261 | 123 | 138 | 102 | 115 | 157 | 149 | 197 | 192 |
 | Bündnis 90/Die Grünen | 1456 | 193 | 209 | 136 | 135 | 176 | 239 | 218 | 295 |
 | CDU | 1819 | 159 | 236 | 156 | 164 | 230 | 251 | 300 | 245 |
 | Die Linke | 740 | 49 | 81 | 34 | 49 | 93 | 54 | 115 | 160 |
 | FDP | 1922 | 222 | 290 | 83 | 124 | 181 | 209 | 232 | 244 |
 | SPD | 1805 | 205 | 285 | 124 | 143 | 214 | 255 | 278 | 285 |
-| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | *Leading Candidates* |
+| **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | Carolin Butterwegge (Die Linke) | 21 | 1 | 1 | 1 | 0 | 2 | 3 | 2 | 10 |
 | Hendrik Wüst (CDU) | 1751 | 162 | 204 | 150 | 180 | 272 | 286 | 366 | 478 |
 | Joachim Stamp (FDP) | 871 | 166 | 224 | 17 | 64 | 48 | 52 | 118 | 116 |
