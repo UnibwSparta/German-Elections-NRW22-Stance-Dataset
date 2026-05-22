@@ -65,6 +65,7 @@ Every tweet in the dataset contains at least one target entity. The table below 
 
 
 | *Parties* | | | | | | | | | |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **target\_entity** | **train** | **test\_1** | **test\_2** | **test\_3** | **test\_4** | **test\_5** | **test\_6** | **test\_7** | **test\_8** |
 | AfD | 1261 | 123 | 138 | 102 | 115 | 157 | 149 | 197 | 192 |
 | Bündnis 90/Die Grünen | 1456 | 193 | 209 | 136 | 135 | 176 | 239 | 218 | 295 |
