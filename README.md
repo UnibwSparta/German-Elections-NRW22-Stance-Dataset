@@ -192,3 +192,7 @@ Every dataset part is provided as a JSON file consisting of a list of JSON objec
   isbn="978-3-032-07986-2"
 }
 ```
+
+## License
+
+License: CC BY 4.0 for annotations, labels, code, and Tweet ID lists only. Tweet content remains subject to Twitter/X Terms of Service and must be rehydrated via the API.
